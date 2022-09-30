@@ -352,6 +352,8 @@ button>ul>li>div {
   line-height: 2;
   font-weight: 300;
   display: none;
+  margin-bottom: 15px;
+
 }
 .hide-green>span {
   height: 20px;
@@ -367,6 +369,7 @@ button>ul>li>div {
   padding: 8px;
   font-size: 10px;
   display: none;
+  margin-bottom: 15px;
 }
 .hide-red {
   display: flex;
@@ -390,6 +393,7 @@ justify-content: space-between;
   padding: 8px;
   display: none;
   font-size: 10px;
+  margin-bottom: 15px;
 
 }
 .hide-mails {
@@ -399,6 +403,7 @@ justify-content: space-between;
     rgba(232, 98, 0, 0.2) 100% );
   padding: 8px;
   font-size: 10px;
+  margin-bottom: 15px;
   display: none;
 }
 .hide-messages {
@@ -408,6 +413,7 @@ justify-content: space-between;
     rgba(232, 98, 0, 0.2) 100% );
   padding: 8px;
   font-size: 10px;
+  margin-bottom: 15px;
   display: none;
 }
 .alert-input-name, .alert-input-mail, .alert-input-message {
