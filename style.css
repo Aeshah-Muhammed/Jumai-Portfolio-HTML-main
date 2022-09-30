@@ -326,6 +326,7 @@ button {
   background: transparent;
   border: none;
   font-family: "Dela Gothic One", cursive;
+  text-transform: capitalize;
 }
 button>ul>li>div {
   display: flex;
