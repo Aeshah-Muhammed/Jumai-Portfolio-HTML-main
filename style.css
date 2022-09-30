@@ -695,7 +695,7 @@ justify-content: space-between;
 }
 @media (max-width: 305px) {
   .first-container > h1 {
-    font-size: 2.85em;
+    font-size: 2.850em;
   }
   .nn {
     max-width: 200px;
